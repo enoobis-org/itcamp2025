@@ -1,0 +1,11 @@
+npx create-react-app app
+cd app
+npm start
+npm run build
+
+
+node -v
+
+code .
+
+

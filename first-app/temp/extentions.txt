@@ -1,0 +1,12 @@
+https://reactjs.koida.tech/react-in-the-beginning/lesson-5-set-up-dev-environment#extensions
+
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
+https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate
+
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+
