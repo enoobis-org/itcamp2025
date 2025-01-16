@@ -2,12 +2,12 @@ import React from 'react'
 
 function TravelEntry({ img, title, country, googleMapsLink, dates, text }) {
   return (
-    <article className="container mt-4 p-3 border rounded">
+    <article className="container mt-4  p-3 border rounded">
       <div className="row">
         <div className="col-md-4">
           <img src={img.src} alt={img.alt} className="img-fluid rounded" />
         </div>
-        <div className="col-md-8">
+        <div className="col-md-8 text-success">
           <div className="d-flex align-items-center mb-2">
             <img
               src="/src/assets/location.png"
